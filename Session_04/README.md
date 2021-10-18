@@ -12,12 +12,12 @@
 ## Solution:
   - Screenshot of excel -
 
-  ![alt](https://github.com/SachinDangayach/EVA07/blob/main/Session_04/Images/Excel_NN.JPG)
+  ![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/Excel_NN.JPG)
 
 ### Excel file must be there for us to cross-check the image shown on readme (no image = no score)
 
 ## Solution:  
-**[Link to excel](https://github.com/SachinDangayach/EVA07/blob/main/Session_04/NN%20Training.xlsx)**
+**[Link to excel](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/NN%20Training.xlsx)**
 
 ### Explain each major step
 

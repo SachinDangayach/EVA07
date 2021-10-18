@@ -66,20 +66,20 @@ Here are the loss and accuracy charts from training the network:
 
 
 Training Logs  
-![Training Logs Screenshot](https://github.com/sairamsubramaniam/tsai_nlp/blob/master/end_course_v2/3_nn_practice/images/training_logs.png)
+![Training Logs Screenshot](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/training_logs.png)
 
 
 Training Loss By Epochs  
-![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/main/Session3/images/training_loss_by_epochs.png)
+![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session3/images/training_loss_by_epochs.png)
 
 
 Digit Recognition Accuracy By Epochs  
-![Chart - Digit Recognition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/main/Session3/images/test_acc_by_epochs_dra.png)
+![Chart - Digit Recognition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session3/images/test_acc_by_epochs_dra.png)
 
 
 Addition Accuracy By Epochs  
-![Chart - Addition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/main/Session3/images/test_acc_by_epochs_aa.png)
+![Chart - Addition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session3/images/test_acc_by_epochs_aa.png)
 
 
 Training Loss By Batch Iterations  
-![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/main/Session3/images/training_loss_by_batch_iterations.png)
+![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session3/images/training_loss_by_batch_iterations.png)

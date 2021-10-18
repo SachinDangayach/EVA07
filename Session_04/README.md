@@ -79,7 +79,7 @@ Similarly -
 
 ***Total Loss per epoch for Learning Rate = 0.2***
 
-![alt](https://github.com/SachinDangayach//blob/master/Session_04/Images/lr_02.JPG)
+![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/lr_02.JPG)
 
 ***Total Loss per epoch for Learning Rate = 0.5***
 

@@ -22,7 +22,7 @@
 ### Explain each major step
 
 ## Solution:  
-![alt](https://github.com/SachinDangayach/EVA07/blob/main/Session_04/Images/NN.png)
+![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/NN.png)
 ***NN parameters, activation function output and loss calculation***  
 h1 = w1 * i1+w2 * i2  
 h2 = w3 * i1+w4 * i2  
